@@ -1,4 +1,7 @@
-#https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+'''
+    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+'''
+
 
 def divisorSubstrings(num: int, k: int) -> int:
     num_str = str(num)
