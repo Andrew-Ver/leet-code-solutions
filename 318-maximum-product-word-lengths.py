@@ -1,5 +1,5 @@
 '''
-    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+    https://leetcode.com/problems/maximum-product-of-word-lengths/
 '''
 
 
