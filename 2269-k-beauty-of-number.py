@@ -12,5 +12,3 @@ def divisorSubstrings(num: int, k: int) -> int:
             k_beauty += 1
     
     return k_beauty
-
-print(divisorSubstrings(num=240, k=2))
