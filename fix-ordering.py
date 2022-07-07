@@ -3,7 +3,7 @@ import re
 
 
 EXCLUDE: set[str] = {'fix-ordering.py', '.git', 'README.md'}
-EXT_PATTERN  = r'.+(\.py|\.js)'
+EXT_PATTERN = r'.+(\.py|\.js)'
 
 total_renamed: int = 0
 
